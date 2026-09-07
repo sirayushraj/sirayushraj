@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Ayush Raj - Creative Developer, Designer, 3D and Embedded Systems">
-<defs>
-  <radialGradient id="bg" cx="50%" cy="40%" r="80%"><stop offset="0%" stop-color="#1b1248"/><stop offset="45%" stop-color="#0c0820"/><stop offset="100%" stop-color="#06040d"/></radialGradient>
-  <linearGradient id="name" x1="300" y1="0" x2="900" y2="0"><stop offset="0%" stop-color="#7df9ff"/><stop offset="50%" stop-color="#00ffa3"/><stop offset="100%" stop-color="#7b5cff"/></linearGradient>
-  <linearGradient id="border" x1="0" y1="0" x2="1200" y2="400"><stop offset="0%" stop-color="#7df9ff"/><stop offset="50%" stop-color="#7b5cff"/><stop offset="100%" stop-color="#00ffa3"/></linearGradient>
-</defs>
-<rect width="1200" height="400" rx="30" fill="url(#bg)"/>
-<rect x="26" y="26" width="1148" height="348" rx="26" fill="none" stroke="url(#border)" stroke-width="3"/>
-<g fill="#cfe9ff" opacity=".8"><circle cx="90" cy="70" r="2"/><circle cx="300" cy="86" r="2"/><circle cx="560" cy="64" r="1.5"/><circle cx="840" cy="96" r="1.5"/><circle cx="1100" cy="78" r="2"/><circle cx="180" cy="312" r="1.5"/><circle cx="430" cy="332" r="1.5"/><circle cx="700" cy="320" r="2"/><circle cx="980" cy="316" r="1.5"/><circle cx="1132" cy="322" r="1.5"/></g>
-<g stroke="#7df9ff" stroke-width="2" fill="none" opacity=".8"><path d="M120 40 L150 120 L122 132 L168 230 L138 244 L182 340"/><path d="M1080 44 L1052 118 L1082 130 L1040 224 L1070 238 L1028 336" stroke="#7b5cff"/></g>
-<g stroke="#00ffa3" stroke-width="3" fill="none"><path d="M54 86 L54 54 L86 54"/><path d="M1146 86 L1146 54 L1114 54"/><path d="M54 314 L54 346 L86 346"/><path d="M1146 314 L1146 346 L1114 346"/></g>
-<text x="600" y="145" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="15" font-weight="700" letter-spacing="7" fill="#00ffa3">ENGINEER</text>
-<text x="600" y="235" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="92" font-weight="800" letter-spacing="6" fill="url(#name)">AYUSH RAJ</text>
-<line x1="372" y1="264" x2="828" y2="264" stroke="url(#border)" stroke-width="3"/>
-<text x="600" y="312" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="17" font-weight="600" letter-spacing="3" fill="#bfe9ff">Three.js | Embedded Systems &amp; Image Processing | Windows/Android App Developer</text>
-</svg>
+PLACEHOLDER
