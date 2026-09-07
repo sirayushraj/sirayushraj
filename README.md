@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sirayushraj/sirayushraj/main/validated_svg.svg" width="100%" alt="Ayush Raj - Creative Developer, Designer, 3D & Embedded Systems" />
+  <img src="https://raw.githubusercontent.com/sirayushraj/sirayushraj/main/validated_svg.svg?v=2" width="100%" alt="Ayush Raj - Creative Developer, Designer, 3D & Embedded Systems" />
 </div>
 
 <div align="center">
