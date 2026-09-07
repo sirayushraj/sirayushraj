@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ayush%20Raj&fontSize=70&fontAlignY=35&animation=twinkling&desc=The%20Grand%20Sorcerer%20of%20Code&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" />
+  <img src="https://raw.githubusercontent.com/sirayushraj/sirayushraj/main/validated_svg.svg" width="100%" alt="Ayush Raj - Creative Developer, Designer, 3D & Embedded Systems" />
 </div>
 
 <div align="center">
