@@ -86,10 +86,24 @@
   <i>A curated collection of my visual creations and posters.</i>
 </p>
 <div align="center">
-  <!-- Place your poster/design images here. Example: -->
-  <!-- <img src="link_to_your_image.png" width="45%" alt="Design 1"> -->
-  <!-- <img src="link_to_your_image2.png" width="45%" alt="Design 2"> -->
-  <p><i>[ 🖼️ Upload/Link your posters here ]</i></p>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="assets/designs/whatsapp-poster.jpeg">
+          <img src="assets/designs/whatsapp-poster.jpeg" width="400px" alt="Design Poster 1">
+        </a>
+        <br>
+        <i>Creative Poster 1</i>
+      </td>
+      <td align="center">
+        <a href="assets/designs/image.png">
+          <img src="assets/designs/image.png" width="400px" alt="Design Poster 2">
+        </a>
+        <br>
+        <i>Creative Poster 2</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon"></div>
