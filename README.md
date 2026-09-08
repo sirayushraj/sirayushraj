@@ -18,6 +18,18 @@
   </p>
 </div>
 
+<div align="center">
+  <p><br><br></p>
+  <p>
+    <img alt="Profile views" src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&labelColor=0d1117">
+    <img alt="23972 followers" src="https://img.shields.io/badge/23972_followers-00FFA3?style=for-the-badge&labelColor=0d1117">
+  </p>
+</div>
+
+<div align="center">
+  <img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon">
+</div>
+
 </div>
 
 <p align="center">
