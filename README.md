@@ -133,12 +133,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/sirayushraj">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirayushraj&amp;repo=sirayushraj&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7DF9FF&amp;text_color=9CA3AF&amp;icon_color=7B5CFF" alt="Featured Repo 1"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirayushraj&amp;repo=sirayushraj&amp;theme=neon&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7DF9FF&amp;text_color=9CA3AF&amp;icon_color=7B5CFF" alt="Featured Repo 1"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/sirayushraj/AyushGPT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirayushraj&amp;repo=AyushGPT&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7DF9FF&amp;text_color=9CA3AF&amp;icon_color=7B5CFF" alt="Featured Repo 2"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirayushraj&amp;repo=AyushGPT&amp;theme=neon&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7DF9FF&amp;text_color=9CA3AF&amp;icon_color=7B5CFF" alt="Featured Repo 2"/>
       </a>
     </td>
   </tr>
@@ -146,19 +146,26 @@
 
 <div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&amp;theme=neon"></div>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="30" /> The Crystal Ball of Analytics</h3>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/sirayushraj">
+          <img src="https://github-readme-stats.vercel.app/api?username=sirayushraj&amp;show_icons=true&amp;theme=neon&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7DF9FF&amp;text_color=9CA3AF&amp;icon_color=7B5CFF&amp;custom_title=Arcane%20Metrics" alt="GitHub Stats" height="170" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sirayushraj">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirayushraj&amp;layout=compact&amp;theme=neon&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7DF9FF&amp;text_color=9CA3AF&amp;custom_title=Languages%20of%20Power" alt="Top Languages" height="170" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br>
   <a href="https://github.com/sirayushraj">
-    <img src="https://github-readme-stats.vercel.app/api?username=sirayushraj&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7DF9FF&amp;text_color=9CA3AF&amp;icon_color=7B5CFF&amp;custom_title=Arcane%20Metrics" alt="GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/sirayushraj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirayushraj&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7DF9FF&amp;text_color=9CA3AF&amp;custom_title=Languages%20of%20Power" alt="Top Languages" />
-  </a>
-  <br><br>
-  <a href="https://github.com/sirayushraj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirayushraj&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=7B5CFF&amp;fire=00FFA3&amp;currStreakNum=7DF9FF&amp;currStreakLabel=9CA3AF&amp;sideNums=7DF9FF&amp;sideLabels=9CA3AF&amp;dates=9CA3AF" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirayushraj&amp;theme=neon&amp;hide_border=true&amp;background=0d1117&amp;ring=7B5CFF&amp;fire=00FFA3&amp;currStreakNum=7DF9FF&amp;currStreakLabel=9CA3AF&amp;sideNums=7DF9FF&amp;sideLabels=9CA3AF&amp;dates=9CA3AF" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -168,7 +175,7 @@
 
 <h2>🔥 Contribution Activity</h2>
 <p align="center">
-  <img src="https://ghchart.rshah.org/7B5CFF/sirayushraj" alt="Contribution Graph" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sirayushraj&amp;theme=neon&amp;style=aura" alt="Contribution Graph" width="100%" />
 </p>
 
 <br>
