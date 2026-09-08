@@ -21,8 +21,8 @@
 <div align="center">
   <p><br><br></p>
   <p>
-    <img alt="Profile views" src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&labelColor=0d1117">
-    <img alt="23972 followers" src="https://img.shields.io/badge/23972_followers-00FFA3?style=for-the-badge&labelColor=0d1117">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sirayushraj&style=for-the-badge&label=PROFILE+VIEWS&color=7B5CFF&label_color=0d1117">
+    <img alt="followers" src="https://img.shields.io/github/followers/sirayushraj?label=FOLLOWERS&style=for-the-badge&color=00FFA3&labelColor=0d1117">
   </p>
 </div>
 
