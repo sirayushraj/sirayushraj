@@ -30,8 +30,6 @@
   <img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon">
 </div>
 
-</div>
-
 <p align="center">
   <i>"Any sufficiently advanced code is indistinguishable from magic."</i>
 </p>
@@ -61,6 +59,18 @@
 <p>Full-Stack Technomancer</p>
 <p><strong>Collaborations welcome when they are meaningful 🤝</strong></p>
 </blockquote>
+
+<div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon"></div>
+
+<h2>🏆 Beyond the Code</h2>
+<p>🧠 <strong>Profile signal:</strong> 0 contributions in the last year<br>
+🚀 <strong>Builder energy:</strong> 6 public repositories<br>
+⭐ <strong>Community signal:</strong> 20864 stars across featured work<br>
+🗣️ <strong>Open to:</strong> interesting collaborations and useful products</p>
+
+<h2>🤝 Let's Build Something Meaningful</h2>
+<p>I build useful software and enjoy turning ambitious ideas into working products.</p>
+
 <div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon"></div>
 
 <h2>⚔️ Tech Arsenal</h2>
@@ -77,7 +87,6 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117">
 </p>
 </div>
-
 
 <div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon"></div>
 
@@ -113,29 +122,54 @@
   <i>Dive into the worlds I am currently building.</i>
 </p>
 <div align="center">
-  <!-- Provide a link to your PDF here. Example: -->
-  <!-- <a href="link_to_your_pdf.pdf"><img src="https://img.shields.io/badge/Download_Latest_Comic-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download PDF"></a> -->
   <p><i>[ 📄 Provide the link to your Comic PDF here ]</i></p>
 </div>
 
+<div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon"></div>
 
-<br>
+<h2>🌟 Featured Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sirayushraj">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirayushraj&repo=sirayushraj&theme=neon&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=9CA3AF&icon_color=7B5CFF" alt="Featured Repo 1"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sirayushraj">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirayushraj&repo=your-second-repo&theme=neon&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=9CA3AF&icon_color=7B5CFF" alt="Featured Repo 2"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon"></div>
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="30" /> The Crystal Ball of Analytics</h3>
 
 <div align="center">
   <a href="https://github.com/sirayushraj">
-    <img src="https://github-readme-stats.vercel.app/api?username=sirayushraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&custom_title=Arcane%20Metrics" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sirayushraj&show_icons=true&theme=neon&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=9CA3AF&icon_color=7B5CFF&custom_title=Arcane%20Metrics" alt="GitHub Stats" />
   </a>
   <br><br>
   <a href="https://github.com/sirayushraj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirayushraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&custom_title=Languages%20of%20Power" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirayushraj&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=9CA3AF&custom_title=Languages%20of%20Power" alt="Top Languages" />
   </a>
   <br><br>
   <a href="https://github.com/sirayushraj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirayushraj&theme=tokyonight&hide_border=true&background=1a1b27&ring=bb9af7&fire=7aa2f7&currStreakNum=7aa2f7" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirayushraj&theme=neon&hide_border=true&background=0d1117&ring=7B5CFF&fire=00FFA3&currStreakNum=7DF9FF&currStreakLabel=9CA3AF&sideNums=7DF9FF&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Streak" />
   </a>
 </div>
+
+<br>
+
+<div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon"></div>
+
+<h2>🔥 Contribution Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirayushraj&theme=neon-dark&bg_color=0d1117&color=7B5CFF&line=00FFA3&point=7DF9FF&hide_border=true" alt="Contribution Graph" />
+</p>
 
 <br>
 
@@ -154,19 +188,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer" />
 </div>
-## Hi there 👋
-
-<!--
-**sirayushraj/sirayushraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
