@@ -45,42 +45,65 @@
   </p>
 </div>
 
-<br>
+<div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon"></div>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="30" /> The Archmage's Grimoire</h3>
+<h2>⚡ whoami</h2>
+<pre><code class="language-typescript">const ayush: Technomancer = {
+  name:      "Ayush Raj",
+  role:      "Full-Stack Technomancer & Digital Alchemist",
+  location:  "India",
+  currently: "crafting flawless digital experiences",
+  stack:     ["Python", "HTML", "React", "Langchain", "n8n", "SQL"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+</code></pre>
+<blockquote>
+<p>Full-Stack Technomancer</p>
+<p><strong>Collaborations welcome when they are meaningful 🤝</strong></p>
+</blockquote>
+<div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon"></div>
 
-<table align="center" width="800">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🌟 Conjuring</h3>
-      <p>Infinite-scale systems, ethereal architectures, and mesmerizing user experiences.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>📜 Studying</h3>
-      <p>The latest incantations in Artificial Intelligence, Quantum Computing, and Next-Gen Frameworks.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🤝 Alliances</h3>
-      <p>Seeking to forge powerful alliances with fellow visionaries to construct magical tech artifacts.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>⚡ Magic Word</h3>
-      <p>"True mastery is not just knowing all the spells, but knowing exactly when to cast them."</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Crossed Swords" width="30" /> The Sorcerer's Relics & Runes</h3>
-
+<h2>⚔️ Tech Arsenal</h2>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,cpp,go,docker,kubernetes,aws,git,linux,bash,mongodb,postgres&perline=8" alt="Tech Stack" />
-  </a>
+<img alt="Tech stack" src="https://skillicons.dev/icons?i=python,html,react,mysql&perline=8&theme=dark">
+<p><br><br></p>
+<p><strong>🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation &nbsp;·&nbsp; 🔗 Langchain &nbsp;·&nbsp; 🤖 n8n</strong></p>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117">
+  <img alt="Langchain" src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d1117">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0d1117">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117">
+</p>
 </div>
+
+
+<div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon"></div>
+
+<h2>🎨 Design Gallery</h2>
+<p align="center">
+  <i>A curated collection of my visual creations and posters.</i>
+</p>
+<div align="center">
+  <!-- Place your poster/design images here. Example: -->
+  <!-- <img src="link_to_your_image.png" width="45%" alt="Design 1"> -->
+  <!-- <img src="link_to_your_image2.png" width="45%" alt="Design 2"> -->
+  <p><i>[ 🖼️ Upload/Link your posters here ]</i></p>
+</div>
+
+<div align="center"><img width="100%" alt="Section divider" src="https://www.gitskins.com/api/readme-reference/divider?username=sirayushraj&theme=neon"></div>
+
+<h2>📖 Comic Series</h2>
+<p align="center">
+  <i>Dive into the worlds I am currently building.</i>
+</p>
+<div align="center">
+  <!-- Provide a link to your PDF here. Example: -->
+  <!-- <a href="link_to_your_pdf.pdf"><img src="https://img.shields.io/badge/Download_Latest_Comic-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download PDF"></a> -->
+  <p><i>[ 📄 Provide the link to your Comic PDF here ]</i></p>
+</div>
+
 
 <br>
 
